@@ -34,7 +34,7 @@ Pandas
 
 🔧 Installation
 # Clone the repository
-git clone https://github.com/yourusername/live-data-dashboard.git
+git clone https://github.com/Esskay1945/LiveBoard.git
 cd live-data-dashboard
 
 # Install dependencies
